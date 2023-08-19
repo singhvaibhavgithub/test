@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vaibhav
+Skills: HTML, CSS, JS, Next.js,React.js,Node.js,Express.js
+Email: vaibhavsingh2903@gmail.com
+{{/user}}
